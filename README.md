@@ -78,7 +78,7 @@ Terraform utiliza backend remoto S3 para almacenar el estado:
 URL de validación:
 
 ```text
-http://34.202.160.225:3000
+http://32.199.136.173:3000
 ```
 
 ---
